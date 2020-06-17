@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_catalog"
+        android:icon="@drawable/ic_catalog"
+        android:title="@string/title_catalog" />
+
+    <item
+        android:id="@+id/navigation_basket"
+        android:icon="@drawable/ic_basket"
+        android:title="@string/title_basket"
+        android:actionLayout="@layout/basket_badge"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_profile"
+        android:title="@string/Profile" />
+
+    <item
+        android:id="@+id/navigation_bonuses"
+        android:icon="@drawable/ic_bonus"
+        android:title="@string/Bonuses" />
+
+</menu>

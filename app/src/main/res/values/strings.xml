@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MarketPlace05ru</string>
+    <string name="title_home">Главная</string>
+    <string name="title_catalog">Каталоп</string>
+    <string name="title_basket">Корзина</string>
+    <string name="Profile">Профиль</string>
+    <string name="Bonuses">Бонусы</string>
+</resources>
