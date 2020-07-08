@@ -1,4 +1,30 @@
-{"characteristicsBlocks":[{"tittle": "Общие характеристики","characteristics":[{"name": "Процессор","value":"IntelCore i5"}]}]}
+   "success": true,
+    "result": [{
+      "characteristicsBlocks":[
+        {"tittle": "Общие характеристики","characteristics":[
+          {"name": "Процессор","value":"IntelCore i5"},
+        {"name": "Процессор","value":"IntelCore i5"},
+        {"name": "Процессор","value":"IntelCore i5"},
+        {"name": "Процессор","value":"IntelCore i5"},
+        {"name": "Процессор","value":"IntelCore i5"}]},
+       {"tittle": "Общие характеристики","characteristics":[
+          {"name": "Процессор","value":"IntelCore i5"},
+        {"name": "Процессор","value":"IntelCore i5"},
+        {"name": "Процессор","value":"IntelCore i5"},
+        {"name": "Процессор","value":"IntelCore i5"},
+        {"name": "Процессор","value":"IntelCore i5"}]},
+       {"tittle": "Общие характеристики","characteristics":[
+          {"name": "Процессор","value":"IntelCore i5"},
+        {"name": "Процессор","value":"IntelCore i5"},
+        {"name": "Процессор","value":"IntelCore i5"},
+        {"name": "Процессор","value":"IntelCore i5"},
+        {"name": "Процессор","value":"IntelCore i5"}]},
+       {"tittle": "Общие характеристики","characteristics":[
+          {"name": "Процессор","value":"IntelCore i5"},
+        {"name": "Процессор","value":"IntelCore i5"},
+        {"name": "Процессор","value":"IntelCore i5"},
+        {"name": "Процессор","value":"IntelCore i5"},
+        {"name": "Процессор","value":"IntelCore i5"}]}]}]
 
 
 
